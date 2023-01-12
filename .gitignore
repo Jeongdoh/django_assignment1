@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Migrations
+migrations/
+
 # 1/11 과제1 변경확인
 
 # Distribution / packaging
